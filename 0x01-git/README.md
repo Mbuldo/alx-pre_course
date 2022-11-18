@@ -1,1 +1,1 @@
-My second Readme file
+My second Readme file for 0x01-git directory
